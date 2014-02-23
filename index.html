@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<!-- define angular app -->
+<html ng-app="scotchApp">
+
+<head>
+    <!-- SCROLLS -->
+    <link href="css/semantic.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/homepage.css">
+
+    <!--
+    <base href="/home">
+-->
+</head>
+
+<!-- define angular controller -->
+
+<body ng-controller="mainController">
+    <div class="ui inverted page grid masthead segment">
+        <div class="column">
+            <div class="inverted secondary pointing ui menu">
+                <div class="header item">Ideas de Hierro</div>
+                <div class="right menu">
+                    <div class="ui top right pointing mobile dropdown link item">
+                        Menu
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <a class="item" href="#">Inicio</a>
+                            <a class="item" href="#nosotros">Nosotros</a>
+                            <a class="item" href="#galeria">Galería</a>
+                            <a class="item" href="#contacto" ng-click="showForm()">Contacto</a>
+                        </div>
+                    </div>
+                    <a class="item" href="#">Inicio</a>
+                    <a class="item" href="#nosotros">Nosotros</a>
+                    <a class="item" href="#galeria">Galería</a>
+                    <a class="item" href="#contacto" ng-click="showForm()">Contacto</a>
+                </div>
+            </div>
+            <img src="http://ideasdehierro.hostinazo.com/images/logo-ml.png" class="ui medium image">
+
+        </div>
+    </div>
+
+
+    <div id="main">
+
+        <!-- angular templating -->
+        <!-- this is where content will be injected -->
+        <div ng-view ng-animate="{enter: 'view-enter', leave: 'view-leave'}" class="contenido">
+
+        </div>
+
+    </div>
+
+    <footer class="text-center">
+        View the tutorial on
+        <a href="http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating">Scotch.io</a>
+    </footer>
+
+</body>
+
+<!-- SPELLS -->
+<!--
+ <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+-->
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/semantic.js"></script>
+<script src="js/homepage.js"></script>
+<!--
+<script src="js/rutas.js"></script>
+<script src="js/controladores.js"></script>
+-->
+<!--
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.10/angular.min.js"></script>
+-->
+<!--<script src="js/angular.js"></script>-->
+<script src="http://code.angularjs.org/1.2.13/angular.js"></script>
+<!--
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular-route.js"></script>
+-->
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular-animate.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular-route.js"></script>
+<script src="script.js"></script>
+
+</html>
