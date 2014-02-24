@@ -1,0 +1,1 @@
+dir /b /s C:\Ampps\www\Galereya\upload\thumbnails > lista.txt

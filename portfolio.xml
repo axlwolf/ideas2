@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+	<categories>
+		<category id="comedores">Comedores</category>
+		<category id="recamaras">Recamaras</category>
+		<category id="salas">Salas</category>
+		<category id="mix">Muebles miscelaneos</category>
+	</categories>
+	<items>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_1.jpg</thumbnail>
+			<preview>upload/salas/sala_1.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_1.jpg</thumbnail>
+			<preview>upload/comedores/comedor_1.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_1.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_1.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_2.jpg</thumbnail>
+			<preview>upload/salas/sala_2.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_2.jpg</thumbnail>
+			<preview>upload/comedores/comedor_2.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_2.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_2.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_3.jpg</thumbnail>
+			<preview>upload/salas/sala_3.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_3.jpg</thumbnail>
+			<preview>upload/comedores/comedor_3.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_3.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_3.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_4.jpg</thumbnail>
+			<preview>upload/salas/sala_4.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_4.jpg</thumbnail>
+			<preview>upload/comedores/comedor_4.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_4.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_4.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_5.jpg</thumbnail>
+			<preview>upload/salas/sala_5.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_5.jpg</thumbnail>
+			<preview>upload/comedores/comedor_5.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_5.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_5.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_6.jpg</thumbnail>
+			<preview>upload/salas/sala_6.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_6.jpg</thumbnail>
+			<preview>upload/comedores/comedor_6.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_6.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_6.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_7.jpg</thumbnail>
+			<preview>upload/salas/sala_7.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_7.jpg</thumbnail>
+			<preview>upload/comedores/comedor_7.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_7.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_7.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_8.jpg</thumbnail>
+			<preview>upload/salas/sala_8.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_8.jpg</thumbnail>
+			<preview>upload/comedores/comedor_8.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_8.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_8.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_9.jpg</thumbnail>
+			<preview>upload/salas/sala_9.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_9.jpg</thumbnail>
+			<preview>upload/comedores/comedor_9.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_9.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_9.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_10.jpg</thumbnail>
+			<preview>upload/salas/sala_10.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_10.jpg</thumbnail>
+			<preview>upload/comedores/comedor_10.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_10.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_10.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_11.jpg</thumbnail>
+			<preview>upload/salas/sala_11.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_11.jpg</thumbnail>
+			<preview>upload/comedores/comedor_11.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_11.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_11.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_12.jpg</thumbnail>
+			<preview>upload/salas/sala_12.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_12.jpg</thumbnail>
+			<preview>upload/comedores/comedor_12.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_12.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_12.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_13.jpg</thumbnail>
+			<preview>upload/salas/sala_13.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_13.jpg</thumbnail>
+			<preview>upload/comedores/comedor_13.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_13.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_13.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/salas/tn_sala_14.jpg</thumbnail>
+			<preview>upload/salas/sala_14.jpg</preview>
+			<category>salas</category>
+			<description>Sala modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/comedores/tn_comedor_14.jpg</thumbnail>
+			<preview>upload/comedores/comedor_14.jpg</preview>
+			<category>comedores</category>
+			<description>Comedor modelo</description>
+		</item>
+		<item>
+			<thumbnail>upload/thumbnails/recamaras/tn_recamara_14.jpg</thumbnail>
+			<preview>upload/recamaras/recamara_14.jpg</preview>
+			<category>recamaras</category>
+			<description>Recamara modelo</description>
+		</item>
+	</items>
+</portfolio>
